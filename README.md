@@ -1,2 +1,57 @@
-# fedLearnPredictive
-Predictive modelling QGIS plugin for archaeology, incorporating reinforcement and federated learning
+<p align="center">
+  <img src="images/icon.png" alt="predictive modelling logo"/>
+</p>
+
+<p align="center">
+  <em>QGIS plugin utilizing reinforcement and federated learning for enhanced predictive modelling.</em>
+</p>
+
+---
+
+**Documentation**: [github.com/Scotsman1973/archaeo_modelling](https://github.com/Scotsman1973/fedLearnPredictive/blob/main/README.md)
+
+**Code**: [github.com/Scotsman1973/archaeo_modelling](https://github.com/Scotsman1973/archaeo_modelling/blob/main/archaeo_modelling.zip)
+
+---
+
+## Introduction
+
+The following documentation gives workflows specific to this plugin, a QGIS resource section and instuctions on installing a plugin from a '.zip' file.
+
+---
+
+## QGIS resources
+
+GIS, be it QGIS or ArcGIS, is a package of geospatial functions that uses common data types.
+
+---
+
+**Data types**
+
+
+
+**Using rasters not created in the GUI**
+
+
+
+**aspect data**
+
+
+
+**slope data**
+
+
+
+**elevation data**
+
+
+
+**huge file size**
+
+## Citation
+
+Cite by including this URL: https://github.com/Scotsman1973/fedLearnPredictive
+
+---
+
+## Plugin created by [Andrew Prentice](https://digitalarchaeology.com.au)
