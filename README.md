@@ -57,8 +57,9 @@ Rasters must be in the .tif (geotif) format, then placed in the directory nomina
 **huge file size**
 
 ## Citation
-
-Cite by including this URL: https://github.com/Scotsman1973/fedLearnPredictive
+Cite by including:
+<br>
+https://github.com/Scotsman1973/fedLearnPredictive
 
 ---
 
