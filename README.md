@@ -6,11 +6,6 @@
   <em>QGIS plugin utilizing reinforcement and federated learning for enhanced predictive modelling.</em>
 </p>
 
----
-**Documentation**: [github.com/Scotsman1973/archaeo_modelling](https://github.com/Scotsman1973/fedLearnPredictive/blob/main/README.md)
-
-**Code**: [github.com/Scotsman1973/archaeo_modelling](https://github.com/Scotsman1973/archaeo_modelling/blob/main/archaeo_modelling.zip)
-
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/license/mit)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13160810.svg)](https://doi.org/10.5281/zenodo.13160810)
@@ -20,8 +15,10 @@
 ---
 
 ## Introduction
-
 The following documentation gives workflows specific to this plugin, a QGIS resource section and instuctions on installing a plugin from a '.zip' file.
+---
+## Instalation of plugin from zip file
+
 
 ---
 ## QGIS resources
